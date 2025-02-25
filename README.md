@@ -1,8 +1,8 @@
-#### Food Website
+## Food Website
 
 A visually appealing and user-friendly food website showcasing a variety of dishes, an interactive menu, customer reviews, and an easy ordering system.
 
-Features
+## Features
 
 Home Page: Engaging hero section with an attractive call-to-action.
 
@@ -20,7 +20,7 @@ Team Section: Meet the chefs and team behind the food service.
 
 Footer: Quick links, contact details, and social media handles.
 
-Technologies Used
+## Technologies Used
 
 HTML: Structuring the website content.
 
@@ -28,15 +28,15 @@ CSS: Styling and making the website visually appealing.
 
 Font Awesome: Icons for better UI/UX.
 
-Setup Instructions
+## Setup Instructions
 
 Clone or download the repository.
 
-Open index.html in any modern web browser.
+Open `` in any modern web browser.
 
-Ensure the style.css file is in the same directory for proper styling.
+Ensure the `` file is in the same directory for proper styling.
 
-Future Enhancements
+## Future Enhancements
 
 Add a backend for processing orders.
 
@@ -44,11 +44,13 @@ Implement a responsive design for better mobile usability.
 
 Integrate a payment gateway for seamless transactions.
 
-Author
+## Author
 
-Designed by Thaanesh VContact: vthaanesh@gmail.com
+Designed by Thaanesh V
 
-License
+**Contact: **vthaanesh@gmail.com
+
+## License
 
 This project is open-source and available under the MIT License.
 
