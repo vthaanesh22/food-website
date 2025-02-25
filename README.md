@@ -30,19 +30,19 @@ Font Awesome: Icons for better UI/UX.
 
 ## Setup Instructions
 
-Clone or download the repository.
+1.Clone or download the repository.
 
-Open `` in any modern web browser.
+2.Open `` in any modern web browser.
 
-Ensure the `` file is in the same directory for proper styling.
+3.Ensure the `` file is in the same directory for proper styling.
 
 ## Future Enhancements
 
-Add a backend for processing orders.
+1.Add a backend for processing orders.
 
-Implement a responsive design for better mobile usability.
+2.Implement a responsive design for better mobile usability.
 
-Integrate a payment gateway for seamless transactions.
+3.Integrate a payment gateway for seamless transactions.
 
 ## Author
 
