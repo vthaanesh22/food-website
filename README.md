@@ -32,9 +32,9 @@ Font Awesome: Icons for better UI/UX.
 
 1.Clone or download the repository.
 
-2.Open `` in any modern web browser.
+2.Open  in any modern web browser.
 
-3.Ensure the `` file is in the same directory for proper styling.
+3.Ensure the  file is in the same directory for proper styling.
 
 ## Future Enhancements
 
